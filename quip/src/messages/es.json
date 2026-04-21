@@ -1,0 +1,145 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "about": "Nosotros",
+    "contact": "Contacto",
+    "terms": "Términos",
+    "privacy": "Privacidad"
+  },
+  "hero": {
+    "badge": "Soluciones Empresariales con IA",
+    "title": "Hacemos que la IA funcione para tu negocio.",
+    "description": "Diseñamos, construimos y desplegamos chatbots inteligentes y sistemas de automatización que transforman la operación de las empresas. Desde servicio al cliente hasta flujos internos — llevamos la IA donde importa.",
+    "cta_primary": "Iniciar Proyecto",
+    "cta_secondary": "Ver Servicios",
+    "stat1_value": "50+",
+    "stat1_label": "Agentes IA Desplegados",
+    "stat2_value": "98%",
+    "stat2_label": "Satisfacción del Cliente",
+    "stat3_value": "24/7",
+    "stat3_label": "Operación Autónoma"
+  },
+  "marquee": {
+    "items": "CHATBOTS / AUTOMATIZACIÓN / INTEGRACIÓN DE IA / MACHINE LEARNING / NLP / OPTIMIZACIÓN DE FLUJOS / WHATSAPP BUSINESS / AGENTES IA PERSONALIZADOS"
+  },
+  "services": {
+    "label": "QUÉ CONSTRUIMOS",
+    "title": "Soluciones de IA diseñadas para impactar.",
+    "cards": [
+      {
+        "title": "Chatbots con IA",
+        "description": "Agentes conversacionales personalizados para servicio al cliente, calificación de leads y automatización de ventas. Desplegados en web, WhatsApp y plataformas de mensajería.",
+        "tags": ["WhatsApp", "NLP", "Multi-lang"]
+      },
+      {
+        "title": "Automatización de Procesos",
+        "description": "Automatización completa de procesos repetitivos. Desde manejo de facturas hasta actualizaciones de CRM — conectamos tus herramientas y eliminamos trabajo manual.",
+        "tags": ["API", "Webhooks", "n8n"]
+      },
+      {
+        "title": "Integración de IA",
+        "description": "Incorpora inteligencia a tu stack de software existente. Integramos LLMs, visión por computadora y modelos predictivos en las plataformas que ya usas.",
+        "tags": ["LLM", "ML", "Vision"]
+      },
+      {
+        "title": "Aplicaciones Web con IA",
+        "description": "Desarrollo full-stack de aplicaciones web potenciadas con funciones de IA. Herramientas de pricing, motores de recomendación, dashboards inteligentes y más.",
+        "tags": ["Next.js", "React", "Python"]
+      },
+      {
+        "title": "Consultoría en IA",
+        "description": "Orientación estratégica sobre dónde y cómo implementar IA en tu negocio. Auditamos tus operaciones, identificamos oportunidades y construimos una hoja de ruta para la transformación inteligente.",
+        "tags": ["Strategy", "Audit", "Roadmap"]
+      },
+      {
+        "title": "Enjambres de Agentes IA",
+        "description": "Despliega múltiples agentes de IA coordinados que trabajan juntos en tareas complejas. Nuestros sistemas multi-agente manejan investigación, análisis y ejecución de forma autónoma.",
+        "tags": ["Multi-Agent", "RAG", "Orchestration"]
+      }
+    ],
+    "expand": {
+      "tech_title": "Stack Tecnológico",
+      "tech_content": "Python, Node.js, Next.js, React, Flask, FastAPI, LangChain, Claude API, OpenAI API, Whisper, TensorFlow, scikit-learn, PostgreSQL, MongoDB, Redis, Docker, AWS, Render, Vercel, n8n, Make.com, Meta Cloud API, WhatsApp Business Platform.",
+      "timeline_title": "Tiempos de Entrega",
+      "timeline_content": "Chatbot MVP: 2-3 semanas. Automatización completa: 4-6 semanas. App web con IA: 6-10 semanas. Enterprise: personalizado. Sprints ágiles con demos semanales.",
+      "security_title": "Seguridad y Cumplimiento",
+      "security_content": "Datos encriptados, OAuth 2.0, RBAC, compatible con GDPR, cumplimiento con la LOPDP de Ecuador."
+    }
+  },
+  "about": {
+    "label": "QUIÉNES SOMOS",
+    "title": "Un equipo de humanos y agentes de IA, construyendo el futuro.",
+    "prose1": "Quip no es una agencia típica. Operamos como una unidad de inteligencia híbrida — un equipo central de ingenieros senior de IA y estrategas de producto, potenciados por una flota de agentes de IA especializados que trabajan junto a nosotros las 24 horas.",
+    "prose2": "Con base en Quito, Ecuador, servimos a empresas en toda Latinoamérica y más allá. Nuestra misión es clara: cerrar la brecha entre la investigación de IA de vanguardia y las aplicaciones empresariales del mundo real. No solo consultamos — construimos, desplegamos y mantenemos.",
+    "values": [
+      {
+        "title": "Envía Rápido, Itera Más Rápido",
+        "description": "Creemos en la velocidad. MVPs funcionales en semanas, no meses."
+      },
+      {
+        "title": "Resultados Medibles",
+        "description": "Cada solución viene con KPIs. Si la IA no mejora tus métricas, pivotamos."
+      },
+      {
+        "title": "Transparentes y Bilingües",
+        "description": "Visibilidad total de nuestro proceso. Operamos nativamente en inglés y español."
+      }
+    ],
+    "fleet_title": "Nuestra Flota de Agentes IA",
+    "fleet_description": "Mientras duermes, nuestros agentes trabajan. Mantenemos una red coordinada de agentes de IA especializados — desde agentes de investigación que se mantienen al día con los últimos modelos, hasta agentes de QA que prueban despliegues, y agentes de monitoreo que aseguran la disponibilidad. Esto es lo que hace diferente a Quip: obtienes la experiencia de un equipo senior respaldado por infraestructura de IA siempre activa."
+  },
+  "contact": {
+    "label": "CONTÁCTANOS",
+    "title": "Construyamos algo inteligente.",
+    "description": "¿Listo para agregar IA a tu negocio? Cuéntanos sobre tu proyecto y te responderemos en 24 horas con una evaluación inicial y un enfoque propuesto.",
+    "email": "hello@quip.ec",
+    "location": "Quito, Ecuador",
+    "whatsapp": "+593 96 324 7907",
+    "form": {
+      "name": "Nombre",
+      "email": "Correo electrónico",
+      "service": "Servicio",
+      "service_options": [
+        "Chatbot",
+        "Automatización",
+        "Integración",
+        "App Web",
+        "Consultoría",
+        "Otro"
+      ],
+      "details": "Detalles del Proyecto",
+      "submit": "Enviar Mensaje"
+    }
+  },
+  "footer": {
+    "tagline": "Soluciones de IA que funcionan.",
+    "copyright": "Todos los derechos reservados."
+  },
+  "metadata": {
+    "home": {
+      "title": "Quip — Agencia de IA | Chatbots y Automatización para Empresas",
+      "description": "Quip es una agencia de IA especializada en desarrollo de chatbots, automatización empresarial e integración de IA. Transforma tu negocio con soluciones inteligentes."
+    },
+    "services": {
+      "title": "Servicios de IA — Chatbots, Automatización e Integración | Quip",
+      "description": "Chatbots personalizados con IA, automatización de procesos, integración de IA y servicios de consultoría. Quip construye soluciones inteligentes para empresas."
+    },
+    "about": {
+      "title": "Sobre Quip — Agencia de IA en Quito, Ecuador",
+      "description": "Conoce a Quip, una agencia de inteligencia híbrida que combina ingenieros senior de IA con agentes de IA especializados para entregar soluciones de vanguardia."
+    },
+    "contact": {
+      "title": "Contacta a Quip — Inicia tu Proyecto de IA",
+      "description": "Ponte en contacto con Quip para discutir tu proyecto de IA. Chatbots, automatización, integración — respondemos en 24 horas."
+    },
+    "terms": {
+      "title": "Términos y Condiciones | Quip",
+      "description": "Términos y condiciones para los servicios de la agencia de IA Quip."
+    },
+    "privacy": {
+      "title": "Política de Privacidad | Quip",
+      "description": "Política de privacidad de la agencia de IA Quip, cumpliendo con la LOPDP de Ecuador."
+    }
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact",
+    "terms": "Terms",
+    "privacy": "Privacy"
+  },
+  "hero": {
+    "badge": "AI-Powered Business Solutions",
+    "title": "We make AI work for your business.",
+    "description": "We design, build, and deploy intelligent chatbots and automation systems that transform how businesses operate. From customer service to internal workflows — we bring AI where it matters.",
+    "cta_primary": "Start a Project",
+    "cta_secondary": "Explore Services",
+    "stat1_value": "50+",
+    "stat1_label": "AI Agents Deployed",
+    "stat2_value": "98%",
+    "stat2_label": "Client Satisfaction",
+    "stat3_value": "24/7",
+    "stat3_label": "Autonomous Operation"
+  },
+  "marquee": {
+    "items": "CHATBOTS / AUTOMATION / AI INTEGRATION / MACHINE LEARNING / NLP / WORKFLOW OPTIMIZATION / WHATSAPP BUSINESS / CUSTOM AI AGENTS"
+  },
+  "services": {
+    "label": "WHAT WE BUILD",
+    "title": "AI solutions engineered for impact.",
+    "cards": [
+      {
+        "title": "AI Chatbots",
+        "description": "Custom conversational agents for customer service, lead qualification, and sales automation. Deployed on web, WhatsApp, and messaging platforms.",
+        "tags": ["WhatsApp", "NLP", "Multi-lang"]
+      },
+      {
+        "title": "Workflow Automation",
+        "description": "End-to-end automation of repetitive business processes. From invoice handling to CRM updates — we connect your tools and eliminate manual work.",
+        "tags": ["API", "Webhooks", "n8n"]
+      },
+      {
+        "title": "AI Integration",
+        "description": "Embed intelligence into your existing software stack. We integrate LLMs, computer vision, and predictive models into platforms you already use.",
+        "tags": ["LLM", "ML", "Vision"]
+      },
+      {
+        "title": "AI-Powered Web Apps",
+        "description": "Full-stack development of web applications enhanced with AI features. Pricing tools, recommendation engines, intelligent dashboards, and more.",
+        "tags": ["Next.js", "React", "Python"]
+      },
+      {
+        "title": "AI Consulting",
+        "description": "Strategic guidance on where and how to implement AI in your business. We audit your operations, identify opportunities, and build a roadmap for intelligent transformation.",
+        "tags": ["Strategy", "Audit", "Roadmap"]
+      },
+      {
+        "title": "AI Agent Swarms",
+        "description": "Deploy multiple coordinated AI agents that work together on complex tasks. Our multi-agent systems handle research, analysis, and execution autonomously.",
+        "tags": ["Multi-Agent", "RAG", "Orchestration"]
+      }
+    ],
+    "expand": {
+      "tech_title": "Technology Stack",
+      "tech_content": "Python, Node.js, Next.js, React, Flask, FastAPI, LangChain, Claude API, OpenAI API, Whisper, TensorFlow, scikit-learn, PostgreSQL, MongoDB, Redis, Docker, AWS, Render, Vercel, n8n, Make.com, Meta Cloud API, WhatsApp Business Platform.",
+      "timeline_title": "Delivery Timeline",
+      "timeline_content": "MVP chatbot: 2-3 weeks. Full automation: 4-6 weeks. AI web app: 6-10 weeks. Enterprise: custom. Agile sprints with weekly demos.",
+      "security_title": "Security & Compliance",
+      "security_content": "Encrypted data, OAuth 2.0, RBAC, GDPR-aware, Ecuador's LOPDP compliant."
+    }
+  },
+  "about": {
+    "label": "WHO WE ARE",
+    "title": "A team of humans and AI agents, building the future.",
+    "prose1": "Quip is not your typical agency. We operate as a hybrid intelligence unit — a core team of senior AI engineers and product strategists, augmented by a fleet of specialized AI agents that work alongside us around the clock.",
+    "prose2": "Based in Quito, Ecuador, we serve businesses across Latin America and beyond. Our mission is clear: bridge the gap between cutting-edge AI research and real-world business applications. We don't just consult — we build, deploy, and maintain.",
+    "values": [
+      {
+        "title": "Ship Fast, Iterate Faster",
+        "description": "We believe in velocity. Working MVPs in weeks, not months."
+      },
+      {
+        "title": "Measurable Results",
+        "description": "Every solution comes with KPIs. If AI doesn't improve your metrics, we pivot."
+      },
+      {
+        "title": "Transparent & Bilingual",
+        "description": "Full visibility into our process. We operate natively in English and Spanish."
+      }
+    ],
+    "fleet_title": "Our AI Agent Fleet",
+    "fleet_description": "While you sleep, our agents work. We maintain a coordinated network of specialized AI agents — from research agents that stay current on the latest models, to QA agents that test deployments, to monitoring agents that ensure uptime. This is what makes Quip different: you get the expertise of a senior team backed by always-on AI infrastructure."
+  },
+  "contact": {
+    "label": "GET IN TOUCH",
+    "title": "Let's build something intelligent.",
+    "description": "Ready to add AI to your business? Tell us about your project, and we'll get back to you within 24 hours with an initial assessment and proposed approach.",
+    "email": "hello@quip.ec",
+    "location": "Quito, Ecuador",
+    "whatsapp": "+593 96 324 7907",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "service": "Service",
+      "service_options": [
+        "Chatbot",
+        "Automation",
+        "Integration",
+        "Web App",
+        "Consulting",
+        "Other"
+      ],
+      "details": "Project Details",
+      "submit": "Send Message"
+    }
+  },
+  "footer": {
+    "tagline": "AI solutions that work.",
+    "copyright": "All rights reserved."
+  },
+  "metadata": {
+    "home": {
+      "title": "Quip — AI Agency | Chatbots & Automation for Business",
+      "description": "Quip is an AI agency specializing in chatbot development, business automation, and AI integration. Transform your business with intelligent solutions."
+    },
+    "services": {
+      "title": "AI Services — Chatbots, Automation & Integration | Quip",
+      "description": "Custom AI chatbots, workflow automation, AI integration, and consulting services. Quip builds intelligent solutions for businesses."
+    },
+    "about": {
+      "title": "About Quip — AI Agency in Quito, Ecuador",
+      "description": "Learn about Quip, a hybrid intelligence agency combining senior AI engineers with specialized AI agents to deliver cutting-edge solutions."
+    },
+    "contact": {
+      "title": "Contact Quip — Start Your AI Project",
+      "description": "Get in touch with Quip to discuss your AI project. Chatbots, automation, integration — we respond within 24 hours."
+    },
+    "terms": {
+      "title": "Terms and Conditions | Quip",
+      "description": "Terms and conditions for Quip AI agency services."
+    },
+    "privacy": {
+      "title": "Privacy Policy | Quip",
+      "description": "Privacy policy for Quip AI agency, compliant with Ecuador's LOPDP."
+    }
+  }
+}
