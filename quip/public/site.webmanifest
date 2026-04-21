@@ -1,0 +1,16 @@
+{
+  "name": "Quip — Make It Work",
+  "short_name": "Quip",
+  "description": "AI solutions that work.",
+  "start_url": "/es",
+  "display": "standalone",
+  "background_color": "#050507",
+  "theme_color": "#00e5a0",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
